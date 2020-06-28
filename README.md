@@ -1,4 +1,7 @@
 # Churn-Prediction-with-Spark
+
+https://medium.com/@bengubanudonmez/how-to-predict-customer-churn-with-spark-adfc4aebf221
+
 Developing ML models for prediction of Customer Churn of an imaginary digital music service Sparkify, by using Spark
 1. Business Understanding
 Sparkify is an imaginary popular digital music service similar to Spotify . User stream their favorite songs, even the free tier that place advertisements between songs or using the premium subscription model where they stream music as free but pay a monthly flat rate.
