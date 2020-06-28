@@ -38,6 +38,6 @@ understanding business , problem and needs, and then
 understanding data with some manipulations and
 for data preparation part with performing some exploratory data analysis and feature engineering,
 in data modeling and evaluation part we created and evaluated our classification models that can be used for prediction of customer churn.
-As a result the logistic regression model showed the highest performance with F1-Score:0.65 and accuracy:0.72 , on the other hand for the desicion tree clasifier F1 score showed a weaker performance.
+As a result the decision tree model showed the highest performance with F1-Score:0.66 and accuracy:0.74 , on the other hand for the gradient boosted tree clasifier F1 score showed a weaker performance.
 These results were obtained with models that were trained and tested using the small subset of Sparkify dataset that only has 225 unique customers.
 For the original dataset which has 12 GB size, feature engineering part can be enriched or further hyperparameter tuning may be needed for developing models to get higher scores.
